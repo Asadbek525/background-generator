@@ -7,6 +7,7 @@ let button = document.getElementsByTagName("button")[0];
 let bodyload = ()=>{
     css.innerHTML = "linear-gradient(to right," + color1.value + ","+color2.value+")";
     setBack();
+    setRandomColor();
 }
 body.addEventListener("load",bodyload);
 
