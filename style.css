@@ -1,26 +1,25 @@
-body{
-    
-    color: rgba(0, 0, 0, 0.8);
-    font-weight: 900;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
+body {
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: 900;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
 }
-h1{
-    font-size: 50px;
+h1 {
+  font-size: 50px;
 }
-h3{
-    font-size: 16px;
+h3 {
+  font-size: 16px;
 }
-button{
-    outline: none;
-    border: none;
-    border-radius: 5px;
-    background-color: rgba(255, 255, 255, 0.623);
-    color: black;
-    padding: 5px 10px;
-    font-size: 20px;
+button {
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.623);
+  color: black;
+  padding: 5px 10px;
+  font-size: 20px;
 }
-button:hover{
-    background-color:rgb(65, 41, 41) ;
-    color: rgba(255, 255, 255, 0.603);
+button:hover {
+  background-color: rgb(65, 41, 41);
+  color: rgba(255, 255, 255, 0.603);
 }
